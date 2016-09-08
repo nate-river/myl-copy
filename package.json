@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "copy-dir": "^0.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-river/myl-copy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nate-river/myl-copy/issues"
+  },
+  "homepage": "https://github.com/nate-river/myl-copy#readme"
 }
