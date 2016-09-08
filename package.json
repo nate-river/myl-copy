@@ -1,0 +1,17 @@
+{
+  "name": "myl-copy",
+  "version": "1.0.1",
+  "description": "快速生成一个空的前端模板文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myl-copy": "./index.js"
+  },
+  "author": "mayanlong",
+  "license": "ISC",
+  "dependencies": {
+    "copy-dir": "^0.3.0"
+  }
+}
